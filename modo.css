@@ -1,0 +1,35 @@
+body{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img{
+    width: 50%;
+    margin: auto
+}
+a{
+    margin: 20px 20px;
+    text-decoration: none;
+    color: chartreuse;
+}
+a:hover{
+color: blue;
+}
+h1{
+   color: aqua;
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+
+div h3{
+    color: red;
+}
+div img{
+    width: 50%;
+    margin: auto
+}
+
+
